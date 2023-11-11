@@ -1,4 +1,4 @@
-const colors = ["green", "red", "yellow", "blue", "magenta", "cyan", "silver", "gray", "maroon", "purple", "fuchsia", "lime", "olive", "orange", "brown", "pink"]
+const colors = ["Green", "Red", "Yellow", "Blue", "Magenta", "Cyan", "Silver", "Gray", "Maroon", "Purple", "Fuchsia", "Lime", "Olive", "Orange", "Brown", "Pink"]
 const button = document.getElementById("btn")
 const color = document.querySelector(".color")
 
